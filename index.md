@@ -8,13 +8,14 @@ title: Lynnix Zou
   <tr>
     <td style="width:180px; vertical-align:top;">
       <img src="me.jpg" style="max-width:160px; border-radius:50%;">
-<td style="vertical-align:top; padding-left:20px;">
-  <h1 style="margin-bottom:0;">
-    Lynnix Zou<br>
-    <span style="font-size:0.55em; font-weight:normal; color:#555;">
-      邹雀灵
-    </span>
-  </h1>
+    </td>
+    <td style="vertical-align:top; padding-left:20px;">
+      <h1 style="margin-bottom:0;">
+        Lynnix Zou<br>
+        <span style="font-size:0.55em; font-weight:normal; color:#555;">
+          邹雀灵
+        </span>
+      </h1>
 
       Undergraduate, Computer Engineering &amp; Computer Sciences<br>
       University of Wisconsin–Madison<br>
@@ -22,7 +23,6 @@ title: Lynnix Zou
       Phone: <a href="tel:+16086218517">(+1) 608-621-8517</a><br>
       CV: <a href="cv-Lynnix.pdf">cv-Lynnix.pdf</a><br>
       LinkedIn: <a href="https://www.linkedin.com/in/lynnix-zou-1a294b302/">lynnixz</a>
-    </td>
     </td>
   </tr>
 </table>
@@ -56,7 +56,7 @@ Aligned Blankspace Augmentation (ABA), a data format that zero-pads operands and
   *Yuchen Zeng, Shuibai Zhang, Wonjun Kang, Shutong Wu, Lynnix Zou, Ying Fan, Heeju Kim, Ziqian Lin, Jungtaek Kim, Hyung Il Koo, Dimitris Papailiopoulos, and Kangwook Lee.*  
   Manuscript submitted to ICLR 2026 (under review).
   Multi-step reasoning has helped large language models (LLMs) achieve impressive success on challenging tasks, but a comprehensive understanding of reasoning behavior is still lacking. We represents a model's reasoning as a tree of partial solutions with a ``jump'' trace labeled by calculation, verification, and backtracking. Through this analysis, we show that \textbf{models arriving at the same answer may follow very different reasoning strategies.
-  [paper](https://openreview.net/forum?id=QOloPYGG2c)
+  [Paper](https://openreview.net/forum?id=QOloPYGG2c)
 
 ---
 
