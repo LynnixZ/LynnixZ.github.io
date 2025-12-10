@@ -9,9 +9,14 @@ title: Lynnix Zou
     <td style="width:180px; vertical-align:top;">
       <img src="me.jpg" style="max-width:160px; border-radius:50%;">
     </td>
-    <td style="vertical-align:top; padding-left:20px;">
-      <h1>Lynnix Zou</h1>
-      <div style="margin-top:4px; font-size:0.9em; color:#555;">邹雀灵</div>
+<td style="vertical-align:top; padding-left:20px;">
+  <h1 style="margin-bottom:0;">
+    Lynnix Zou<br>
+    <span style="font-size:0.55em; font-weight:normal; color:#555;">
+      邹雀灵
+    </span>
+  </h1>
+
       Undergraduate, Computer Engineering &amp; Computer Sciences<br>
       University of Wisconsin–Madison<br>
       Email: <a href="mailto:qzou24@wisc.edu">qzou24@wisc.edu</a><br>
@@ -32,7 +37,8 @@ My current research focuses on how transformers and large language models (LLMs)
 
 I have been working with Prof. Grigoris Chrysos since May 2024. I also collaborate with Prog. Kangwook Lee on topics related to LLM since Feb 2025.
 I am broadly interested in:
-1) in-ternal computation of transformers: how input formats and weight-space shape the algorithms that transformers learn and how fine-tuning alters those computations; and (2)reasoning structure and internal state, understanding multi-step reasoning traces see what information models track over time and when that tracking fails. 
+1) in-ternal computation of transformers: how input formats and weight-space shape the algorithms that transformers learn and how fine-tuning alters those computations; and 
+2) reasoning structure and internal state, understanding multi-step reasoning traces see what information models track over time and when that tracking fails. 
 
 ---
 
