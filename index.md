@@ -11,10 +11,14 @@ title: Lynnix Zou
     </td>
     <td style="vertical-align:top; padding-left:20px;">
       <h1>Lynnix Zou</h1>
+      <div style="margin-top:4px; font-size:0.9em; color:#555;">邹雀灵</div>
       Undergraduate, Computer Engineering &amp; Computer Sciences<br>
       University of Wisconsin–Madison<br>
       Email: <a href="mailto:qzou24@wisc.edu">qzou24@wisc.edu</a><br>
-      GitHub: <a href="https://github.com/lynnixz">lynnixz</a>
+      Phone: <a href="tel:+16086218517">(+1) 608-621-8517</a><br>
+      CV: <a href="cv-Lynnix.pdf">cv-Lynnix.pdf</a><br>
+      LinkedIn: <a href="https://www.linkedin.com/in/lynnix-zou-1a294b302/">lynnixz</a>
+    </td>
     </td>
   </tr>
 </table>
@@ -39,7 +43,7 @@ I am broadly interested in:
 ### Publication and Under review
 
 - **Data Augmentations for Arithmetic Length Generalization in Small Transformers**  
-  *Zou, Lynnix; Muhammad H. Ashiq; Grigorios Chrysos.*  
+  *Lynnix Zou; Muhammad H. Ashiq; Grigorios Chrysos.*  
   *Manuscript submitted to ICLR 2026 (under review). Workshop version accepted at the NeurIPS 2025 Workshop on Challenges in Time Series Data (WCTD).*
   Generalization is a central question in machine learning, and recent work shows that transformers struggle with length generalization even on basic arithmetic tasks such as addition. To address this, we designed
 Aligned Blankspace Augmentation (ABA), a data format that zero-pads operands and inserts aligned blank spaces across numbers so that corresponding digits always share the same relative positions. With appropriate positional embeddings, ABA allowed small decoder-only transformers to achieve strong length generalization and outperform baselines on several arithmetic tasks.  
