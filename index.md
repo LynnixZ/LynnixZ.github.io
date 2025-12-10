@@ -2,17 +2,15 @@
 layout: default
 title: Lynnix Zou
 ---
-
-
 <table>
   <tr>
     <td style="width:180px; vertical-align:top;">
       <img src="me.jpg" style="max-width:160px; border-radius:50%;">
     </td>
     <td style="vertical-align:top; padding-left:20px;">
-      <h1 style="margin-bottom:0;">
+      <h1 style="margin-bottom:0; line-height:1.1;">
         Lynnix Zou<br>
-        <span style="font-size:0.55em; font-weight:normal; color:#555;">
+        <span style="font-size:0.6em; font-weight:normal;">
           邹雀灵
         </span>
       </h1>
