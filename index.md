@@ -42,8 +42,9 @@ I am broadly interested in:
   *Zou, Lynnix; Muhammad H. Ashiq; Grigorios Chrysos.*  
   *Manuscript submitted to ICLR 2026 (under review). Workshop version accepted at the NeurIPS 2025 Workshop on Challenges in Time Series Data (WCTD).*
   Generalization is a central question in machine learning, and recent work shows that transformers struggle with length generalization even on basic arithmetic tasks such as addition. To address this, we designed
-Aligned Blankspace Augmentation (ABA), a data format that zero-pads operands and inserts aligned blank spaces across numbers so that corresponding digits always share the same relative positions. With appropriate positional embeddings, ABA allowed small decoder-only transformers to achieve strong length generalization and outperform baselines on several arithmetic tasks. 
-  [paper](https://openreview.net/forum?id=UZovxtlIym)
+Aligned Blankspace Augmentation (ABA), a data format that zero-pads operands and inserts aligned blank spaces across numbers so that corresponding digits always share the same relative positions. With appropriate positional embeddings, ABA allowed small decoder-only transformers to achieve strong length generalization and outperform baselines on several arithmetic tasks.  
+[Paper](https://openreview.net/forum?id=UZovxtlIym) · [Workshop](https://openreview.net/forum?id=02ujphOLxD) [Poster](DataAugmentationPoster.pdf)
+
 
 - **ReJump: A Tree-Jump Representation for Analyzing and Improving LLM Reasoning**  
   *Yuchen Zeng, Shuibai Zhang, Wonjun Kang, Shutong Wu, Lynnix Zou, Ying Fan, Heeju Kim, Ziqian Lin, Jungtaek Kim, Hyung Il Koo, Dimitris Papailiopoulos, and Kangwook Lee.*  
