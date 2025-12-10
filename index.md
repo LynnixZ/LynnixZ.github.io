@@ -8,7 +8,6 @@ title: Lynnix Zou
   <tr>
     <td style="width:180px; vertical-align:top;">
       <img src="me.jpg" style="max-width:160px; border-radius:50%;">
-    </td>
 <td style="vertical-align:top; padding-left:20px;">
   <h1 style="margin-bottom:0;">
     Lynnix Zou<br>
