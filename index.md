@@ -43,7 +43,7 @@ I am broadly interested in:
   *Manuscript submitted to ICLR 2026 (under review). Workshop version accepted at the NeurIPS 2025 Workshop on Challenges in Time Series Data (WCTD).*
   Generalization is a central question in machine learning, and recent work shows that transformers struggle with length generalization even on basic arithmetic tasks such as addition. To address this, we designed
 Aligned Blankspace Augmentation (ABA), a data format that zero-pads operands and inserts aligned blank spaces across numbers so that corresponding digits always share the same relative positions. With appropriate positional embeddings, ABA allowed small decoder-only transformers to achieve strong length generalization and outperform baselines on several arithmetic tasks.  
-[Paper](https://openreview.net/forum?id=UZovxtlIym) · [Workshop](https://openreview.net/forum?id=02ujphOLxD) [Poster](DataAugmentationPoster.pdf)
+[Paper](https://openreview.net/forum?id=UZovxtlIym) · [Workshop](https://openreview.net/forum?id=02ujphOLxD) · [Poster](DataAugmentationPoster.pdf)
 
 
 - **ReJump: A Tree-Jump Representation for Analyzing and Improving LLM Reasoning**  
@@ -66,5 +66,4 @@ Aligned Blankspace Augmentation (ABA), a data format that zero-pads operands and
 
 ## Teaching and Service
 
-- Informal tutoring for classmates in ECE and CS courses, including machine learning and computer architecture.  
-- Planned undergraduate teaching assistant for ECE 532 (Machine Learning) at UW–Madison.
+- Peer Mentor for ECE 532 (Machine Learning) at UW–Madison in Spring 2025, Summer 2025, Fall 2025.
