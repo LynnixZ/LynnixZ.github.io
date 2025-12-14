@@ -18,7 +18,6 @@ title: Lynnix Zou
       Undergraduate, Computer Engineering &amp; Computer Sciences<br>
       University of Wisconsin–Madison<br>
       Email: <a href="mailto:qzou24@wisc.edu">qzou24@wisc.edu</a><br>
-      Phone: <a href="tel:+16086218517">(+1) 608-621-8517</a><br>
       CV: <a href="cv-Lynnix.pdf">cv-Lynnix.pdf</a><br>
       LinkedIn: <a href="https://www.linkedin.com/in/lynnix-zou-1a294b302/">lynnixz</a>
     </td>
