@@ -31,7 +31,7 @@ I am an undergraduate student in Computer Engineering and Computer Sciences at t
 My current research focuses on how transformers and large language models (LLMs) perform internal computation, especially on arithmetic and reasoning tasks. Before that, I studied Materials Science and Engineering at Sichuan University and worked on device physics and data-driven screening of electronic materials.
 
 
-I have been working with Prof. Grigoris Chrysos since May 2024. I also collaborate with Prog. Kangwook Lee on topics related to LLM since Feb 2025.
+I have been working with Prof. Grigoris Chrysos since May 2024. I also collaborate with Prof. Kangwook Lee on topics related to LLM since Feb 2025.
 I am broadly interested in:
 1) in-ternal computation of transformers: how input formats and weight-space shape the algorithms that transformers learn and how fine-tuning alters those computations; and 
 2) reasoning structure and internal state, understanding multi-step reasoning traces see what information models track over time and when that tracking fails. 
